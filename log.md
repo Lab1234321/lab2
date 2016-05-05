@@ -39,6 +39,8 @@
 	// TODO 预约的职责分给哪个类？等问题
 
 ####What to do next?
+1. 讨论状态机图，并做相应更改
+2. 检查是否仍有不明确的地方
 
 ####Questions and Answers
 1. 新书录入是由哪个部门负责？<br>
@@ -56,8 +58,13 @@
 
 ###Log Thu May 5 CST 2016
 ####What is accomplished?
+1. 对状态机图的具体实现进行详细的讨论，并进一步完善修改
+2. 对用例图进行修改
 
 ####What to do next?
+1. 修改类图
+2. 画泳道图
+3. 进一步完善状态机图细节部分
 
 ####Questions and Answers
 1. 修改个人信息是否跟前台相关？<br>
