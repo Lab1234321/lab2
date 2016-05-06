@@ -78,3 +78,19 @@
 	不接受
 
 ===
+
+###Log Fri May 6 CST 2016
+####What is accomplished?
+
+####What to do next?
+
+
+===
+
+###Log
+
+===
+
+###Log
+
+===
